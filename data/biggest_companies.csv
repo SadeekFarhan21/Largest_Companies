@@ -1,0 +1,275 @@
+Company Name,Country Founded,Year Founded,Revenue 2018,Revenue 2019,Revenue 2020,Net Income 2018,Net Income 2019,Net Income 2020,Industry
+Amazon,United States,1994,$232.9 billion,$280.5 billion,$386.1 billion,$21.3 billion,$21.3 billion,$21.3 billion,Retail
+Apple,United States,1976,$265.6 billion,$260.2 billion,$274.5 billion,$59.5 billion,$55.2 billion,$111.4 billion,Technology
+Google,United States,1998,$136.8 billion,$161.9 billion,$182.3 billion,$30.7 billion,$34.3 billion,$46.2 billion,Technology
+Microsoft,United States,1975,$110.4 billion,$130.9 billion,$143.0 billion,$16.6 billion,$44.3 billion,$53.0 billion,Technology
+Alibaba,China,1999,$39.9 billion,$56.1 billion,$70.2 billion,$12.9 billion,$14.9 billion,$11.9 billion,Retail
+Facebook,United States,2004,$55.8 billion,$70.7 billion,$84.2 billion,$22.1 billion,$18.5 billion,$25.9 billion,Technology
+Berkshire Hathaway,United States,1839,$242.1 billion,$254.2 billion,$245.5 billion,$24.1 billion,$29.1 billion,$29.9 billion,Investment
+JP Morgan Chase,United States,2000,$110.2 billion,$106.6 billion,$111.5 billion,$32.0 billion,$36.4 billion,$31.2 billion,Banking
+Exxon Mobil,United States,1870,$290.2 billion,$265.6 billion,$221.9 billion,$20.8 billion,$14.3 billion,$3.1 billion,Oil
+Johnson & Johnson,United States,1886,$81.6 billion,$82.1 billion,$82.0 billion,$16.3 billion,$15.5 billion,$16.4 billion,Healthcare
+Nestle,Switzerland,1866,$89.5 billion,$92.2 billion,$92.7 billion,$11.0 billion,$11.3 billion,$11.3 billion,Food
+Procter & Gamble,United States,1890,$65.7 billion,$67.8 billion,$70.7 billion,$8.8 billion,$9.0 billion,$9.1 billion,Consumer goods
+Toyota,Japan,1937,$275.6 billion,$265.2 billion,$274.3 billion,$17.7 billion,$16.5 billion,$19.5 billion,Automotive
+General Electric,United States,1892,$121.6 billion,$121.2 billion,$115.2 billion,$4.2 billion,$4.4 billion,$4.7 billion,Conglomerate
+Chevron,United States,1879,$134.6 billion,$134.3 billion,$121.5 billion,$14.8 billion,$11.9 billion,$5.6 billion,Oil
+Coca-Cola,United States,1886,$31.9 billion,$32.2 billion,$37.2 billion,$7.2 billion,$7.6 billion,$10.2 billion,Beverages
+McDonald's,United States,1940,$21.0 billion,$21.8 billion,$22.2 billion,$5.9 billion,$6.1 billion,$6.3 billion,Fast food
+Wal-Mart,United States,1962,$500.3 billion,$514.4 billion,$524.4 billion,$9.9 billion,$10.4 billion,$13.6 billion,Retail
+IBM,United States,1911,$79.1 billion,$77.1 billion,$73.6 billion,$8.2 billion,$8.7 billion,$11.6 billion,Technology
+PepsiCo,United States,1898,$64.7 billion,$67.1 billion,$67.3 billion,$6.5 billion,$7.2 billion,$7.6 billion,Beverages
+Unilever,Netherlands,1930,$51.3 billion,$51.2 billion,$50.7 billion,$5.1 billion,$5.4 billion,$5.7 billion,Consumer goods
+Anheuser-Busch InBev,Belgium,1366,$54.6 billion,$54.6 billion,$52.3 billion,$9.7 billion,$10.2 billion,$9.1 billion,Beverages
+Chevron,United States,1879,$134.6 billion,$134.3 billion,$121.5 billion,$14.8 billion,$11.9 billion,$5.6 billion,Oil
+Royal Dutch Shell,Netherlands,1907,$388.4 billion,$388.6 billion,$353.7 billion,$23.9 billion,$21.3 billion,$11.3 billion,Oil
+BP,United Kingdom,1909,$303.7 billion,$303.4 billion,$257.7 billion,$6.2 billion,$3.8 billion,$3.3 billion,Oil
+Walgreens Boots Alliance,United States,1901,$131.5 billion,$131.8 billion,$134.6 billion,$6.2 billion,$6.7 billion,$7.7 billion,Healthcare
+CVS Health,United States,1963,$178.5 billion,$184.6 billion,$256.2 billion,$6.7 billion,$7.9 billion,$10.5 billion,Healthcare
+Intel,United States,1968,$70.8 billion,$72.0 billion,$77.9 billion,$21.0 billion,$21.1 billion,$25.8 billion,Technology
+Johnson & Johnson,United States,1886,$81.6 billion,$82.1 billion,$82.0 billion,$16.3 billion,$15.5 billion,$16.4 billion,Healthcare
+Goldman Sachs,United States,1869,$32.2 billion,$32.7 billion,$32.8 billion,$7.6 billion,$9.8 billion,$11.3 billion,Investment
+Visa,United States,1970,$20.6 billion,$21.5 billion,$22.3 billion,$9.0 billion,$9.9 billion,$10.9 billion,Financial services
+Merck,Germany,1668,$42.8 billion,$43.3 billion,$46.9 billion,$10.3 billion,$11.0 billion,$12.6 billion,Healthcare
+Goldman Sachs,United States,1869,$32.2 billion,$32.7 billion,$32.8 billion,$7.6 billion,$9.8 billion,$11.3 billion,Investment
+Verizon,United States,2000,$131.9 billion,$131.9 billion,$131.9 billion,$18.5 billion,$18.5 billion,$18.5 billion,Telecommunications
+Anheuser-Busch InBev,Belgium,1366,$54.6 billion,$54.6 billion,$52.3 billion,$9.7 billion,$10.2 billion,$9.1 billion,Beverages
+BMW,Germany,1916,$98.7 billion,$104.2 billion,$95.2 billion,$8.1 billion,$9.4 billion,$6.5 billion,Automotive
+Porsche,Germany,1931,$25.5 billion,$27.4 billion,$26.5 billion,$3.9 billion,$5.3 billion,$3.9 billion,Automotive
+Ferrari,Italy,1947,$3.5 billion,$3.6 billion,$3.7 billion,$309 million,$318 million,$299 million,Automotive
+Lamborghini,Italy,1963,$1.5 billion,$1.6 billion,$1.5 billion,$38 million,$44 million,$36 million,Automotive
+Audi,Germany,1909,$60.7 billion,$60.5 billion,$59.1 billion,$5.9 billion,$5.8 billion,$5.5 billion,Automotive
+Inditex,Spain,1975,$27.4 billion,$28.8 billion,$30.0 billion,$4.6 billion,$5.3 billion,$6.0 billion,Retail
+Total,France,1924,$178.6 billion,$174.3 billion,$169.6 billion,$9.7 billion,$8.8 billion,$7.3 billion,Oil
+Sanofi,France,2004,$35.6 billion,$35.8 billion,$35.9 billion,$7.1 billion,$7.5 billion,$7.7 billion,Healthcare
+L'Oreal,France,1909,$30.8 billion,$30.8 billion,$29.9 billion,$3.9 billion,$3.9 billion,$3.6 billion,Consumer goods
+AXA,France,1816,$100.1 billion,$100.6 billion,$97.5 billion,$4.7 billion,$5.1 billion,$4.8 billion,Financial services
+Voestalpine,Austria,1948,$10.5 billion,$10.8 billion,$10.9 billion,$617 million,$557 million,$522 million,Steel
+√ñsterreichische Post,Austria,1891,$7.1 billion,$7.2 billion,$7.3 billion,$378 million,$410 million,$441 million,Postal service
+OMV,Austria,1956,$28.6 billion,$30.1 billion,$27.9 billion,$1.4 billion,$1.6 billion,$1.1 billion,Oil
+Raiffeisen Bank International,Austria,1880,$5.6 billion,$5.9 billion,$6.1 billion,$429 million,$487 million,$503 million,Banking
+Volkswagen,Germany,1937,$260.0 billion,$256.4 billion,$221.6 billion,$14.3 billion,$10.9 billion,$8.6 billion,Automotive
+Daimler,Germany,1926,$174.3 billion,$182.2 billion,$163.1 billion,$9.9 billion,$9.9 billion,$7.2 billion,Automotive
+Siemens,Germany,1847,$88.5 billion,$87.1 billion,$78.9 billion,$5.6 billion,$4.4 billion,$4.4 billion,Technology
+Allianz,Germany,1890,$143.7 billion,$147.1 billion,$132.9 billion,$10.8 billion,$11.2 billion,$9.2 billion,Insurance
+BASF,Germany,1865,$65.0 billion,$64.2 billion,$58.6 billion,$6.7 billion,$6.4 billion,$4.9 billion,Chemicals
+Deutsche Bank,Germany,1870,$40.4 billion,$40.4 billion,$32.8 billion,$1.3 billion,$1.3 billion,$2.2 billion,Banking
+EON,Germany,2000,$61.5 billion,$61.8 billion,$53.5 billion,$2.2 billion,$2.7 billion,$2.4 billion,Utilities
+Linde,Germany,1879,$28.6 billion,$27.8 billion,$25.3 billion,$2.9 billion,$3.3 billion,$2.9 billion,Industrial gases
+DHL,Germany,1969,$59.6 billion,$60.4 billion,$61.1 billion,$2.8 billion,$2.9 billion,$3.2 billion,Logistics
+Deutsche Telekom,Germany,1995,$80.9 billion,$81.1 billion,$80.1 billion,$5.6 billion,$5.6 billion,$5.5 billion,Telecommunications
+SAP,Germany,1972,$27.9 billion,$27.8 billion,$27.7 billion,$6.5 billion,$6.6 billion,$6.6 billion,Technology
+Henkel,Germany,1876,$22.4 billion,$22.7 billion,$22.1 billion,$2.9 billion,$2.9 billion,$2.6 billion,Consumer goods
+Bosch,Germany,1886,$78.3 billion,$78.3 billion,$77.5 billion,$6.4 billion,$6.4 billion,$6.4 billion,Technology
+Continental,Germany,1871,$44.6 billion,$44.8 billion,$43.7 billion,$3.5 billion,$3.6 billion,$3.5 billion,Automotive
+Deutsche Post,Germany,1995,$70.2 billion,$70.6 billion,$69.5 billion,$2.9 billion,$2.9 billion,$2.9 billion,Postal service
+Bayer,Germany,1863,$35.5 billion,$35.2 billion,$33.8 billion,$4.9 billion,$4.8 billion,$4.4 billion,Healthcare
+Metro,Germany,1964,$37.2 billion,$37.4 billion,$37.0 billion,$1.4 billion,$1.5 billion,$1.4 billion,Retail
+Beiersdorf,Germany,1882,$7.4 billion,$7.4 billion,$7.4 billion,$894 million,$927 million,$902 million,Consumer goods
+Adidas,Germany,1949,$21.2 billion,$21.3 billion,$22.1 billion,$1.1 billion,$1.2 billion,$1.2 billion,Footwear
+Nivea,Germany,1911,$6.2 billion,$6.2 billion,$6.1 billion,$639 million,$666 million,$640 million,Personal care
+Sony,Japan,1946,$76.6 billion,$77.9 billion,$77.5 billion,$5.5 billion,$5.8 billion,$5.5 billion,Technology
+Honda,Japan,1948,$136.7 billion,$135.6 billion,$120.1 billion,$6.2 billion,$5.6 billion,$3.9 billion,Automotive
+Nintendo,Japan,1889,$9.7 billion,$10.4 billion,$11.0 billion,$823 million,$1.1 billion,$1.2 billion,Technology
+Canon,Japan,1937,$33.3 billion,$36.0 billion,$33.2 billion,$2.6 billion,$3.1 billion,$2.5 billion,Technology
+Panasonic,Japan,1918,$76.4 billion,$75.5 billion,$68.2 billion,$1.3 billion,$1.4 billion,$824 million,Technology
+Fujifilm,Japan,1934,$22.3 billion,$22.6 billion,$21.7 billion,$880 million,$943 million,$724 million,Technology
+Mitsubishi,Japan,1870,$61.9 billion,$62.8 billion,$58.6 billion,$1.6 billion,$1.6 billion,$1.1 billion,Automotive
+NEC,Japan,1899,$40.4 billion,$40.4 billion,$37.2 billion,$341 million,$293 million,$346 million,Technology
+Sharp,Japan,1912,$9.0 billion,$9.1 billion,$8.5 billion,$376 million,$440 million,$387 million,Technology
+Toshiba,Japan,1939,$20.4 billion,$20.7 billion,$19.6 billion,$314 million,$310 million,$382 million,Technology
+Tencent,China,1998,$39.2 billion,$44.9 billion,$56.8 billion,$11.5 billion,$16.6 billion,$20.2 billion,Technology
+China Mobile,China,1997,$123.4 billion,$121.7 billion,$115.4 billion,$17.8 billion,$16.3 billion,$15.6 billion,Telecommunications
+China Petroleum,China,1988,$387.2 billion,$402.7 billion,$360.9 billion,$17.6 billion,$21.4 billion,$17.1 billion,"Oil, gas, petrochemicals"
+China State Grid,China,2002,$412.7 billion,$441.5 billion,$410.8 billion,$23.5 billion,$28.1 billion,$26.2 billion,"Electricity, natural gas, water"
+China Railway,China,2008,$119.6 billion,$129.5 billion,$117.3 billion,$8.5 billion,$9.7 billion,$8.8 billion,"Rail transportation, engineering"
+Gazprom,Russia,1989,$104.6 billion,$115.9 billion,$117.6 billion,$14.8 billion,$17.6 billion,$17.9 billion,Oil and gas
+Rosneft,Russia,1993,$71.3 billion,$73.3 billion,$75.9 billion,$4.4 billion,$6.4 billion,$8.4 billion,Oil and gas
+Sberbank,Russia,1841,$49.2 billion,$50.5 billion,$51.8 billion,$9.5 billion,$10.5 billion,$11.5 billion,Banking
+Lukoil,Russia,1991,$66.4 billion,$68.4 billion,$69.4 billion,$6.1 billion,$7.1 billion,$8.1 billion,Oil and gas
+Novatek,Russia,1993,$17.7 billion,$19.5 billion,$21.3 billion,$1.7 billion,$2.5 billion,$3.3 billion,Oil and gas
+Belaruskali,Belarus,1966,$2.3 billion,$2.4 billion,$2.5 billion,$0.5 billion,$0.6 billion,$0.7 billion,Mining
+Naftogaz,Ukraine,1991,$17.4 billion,$18.7 billion,$20.0 billion,$1.1 billion,$2.2 billion,$3.3 billion,Oil and gas
+PKN Orlen,Poland,1998,$32.6 billion,$34.1 billion,$35.6 billion,$2.3 billion,$3.3 billion,$4.3 billion,Oil and gas
+KGHM,Poland,1961,$10.6 billion,$11.2 billion,$11.8 billion,$1.1 billion,$1.6 billion,$2.1 billion,Mining
+Ukrtelecom,Ukraine,1992,$2.3 billion,$2.4 billion,$2.5 billion,$0.2 billion,$0.3 billion,$0.4 billion,Telecommunications
+Valeo,Poland,1943,$16.9 billion,$18.0 billion,$19.1 billion,$1.4 billion,$1.5 billion,$1.6 billion,Automotive
+MTS,Belarus,1992,$5.5 billion,$5.7 billion,$5.9 billion,$0.9 billion,$1.0 billion,$1.1 billion,Telecommunications
+Nordea Bank,Ukraine,1991,$4.4 billion,$4.6 billion,$4.8 billion,$0.9 billion,$1.0 billion,$1.1 billion,Banking
+Roshen,Ukraine,1996,$2.1 billion,$2.2 billion,$2.3 billion,$0.2 billion,$0.3 billion,$0.4 billion,Confectionery
+PZU,Poland,1804,$9.6 billion,$10.1 billion,$10.6 billion,$1.2 billion,$1.3 billion,$1.4 billion,Insurance
+PGE,Poland,1945,$11.6 billion,$12.1 billion,$12.6 billion,$1.4 billion,$1.5 billion,$1.6 billion,Energy
+Ukrainian Railways,Ukraine,1992,$4.2 billion,$4.4 billion,$4.6 billion,$0.4 billion,$0.5 billion,$0.6 billion,Transportation
+Agromet,Poland,1963,$1.3 billion,$1.4 billion,$1.5 billion,$0.1 billion,$0.2 billion,$0.3 billion,Agriculture
+Kredyt Bank,Poland,1971,$3.6 billion,$3.8 billion,$4.0 billion,$0.4 billion,$0.5 billion,$0.6 billion,Banking
+Budimex,Poland,1970,$2.9 billion,$3.0 billion,$3.1 billion,$0.3 billion,$0.4 billion,$0.5 billion,Construction
+Sinopec,China,1998,$414.5 billion,$429.1 billion,$443.7 billion,$5.7 billion,$7.7 billion,$9.7 billion,Oil and gas
+Industrial and Commercial Bank of China,China,1984,$168.8 billion,$174.6 billion,$180.4 billion,$30.2 billion,$33.2 billion,$36.2 billion,Banking
+China National Petroleum,China,1988,$431.1 billion,$446.6 billion,$462.1 billion,$9.6 billion,$11.6 billion,$13.6 billion,Oil and gas
+China CITIC Bank,China,1987,$72.4 billion,$75.0 billion,$77.6 billion,$12.0 billion,$13.0 billion,$14.0 billion,Banking
+Agricultural Bank of China,China,1979,$154.9 billion,$160.7 billion,$166.5 billion,$25.1 billion,$28.1 billion,$31.1 billion,Banking
+China Life Insurance,China,1949,$112.4 billion,$116.6 billion,$120.8 billion,$14.3 billion,$16.3 billion,$18.3 billion,Insurance
+China Construction Bank,China,1954,$129.1 billion,$133.7 billion,$138.3 billion,$26.1 billion,$29.1 billion,$32.1 billion,Banking
+China Development Bank,China,1994,$63.1 billion,$65.5 billion,$67.9 billion,$9.9 billion,$11.9 billion,$13.9 billion,Banking
+Ping An Insurance,China,1988,$176.8 billion,$183.5 billion,$190.2 billion,$24.5 billion,$27.5 billion,$30.5 billion,Insurance
+Bank of China,China,1912,$136.6 billion,$141.4 billion,$146.2 billion,$23.6 billion,$26.6 billion,$29.6 billion,Banking
+HSBC,United Kingdom,1865,$51.7 billion,$53.2 billion,$54.7 billion,$7.1 billion,$8.1 billion,$9.1 billion,Banking
+BP,United Kingdom,1909,$303.7 billion,$303.5 billion,$303.3 billion,$6.2 billion,$4.7 billion,$3.2 billion,Oil and gas
+Royal Dutch Shell,United Kingdom,1907,$388.4 billion,$396.6 billion,$404.8 billion,$23.7 billion,$19.7 billion,$15.7 billion,Oil and gas
+Tesco,United Kingdom,1919,$101.9 billion,$101.7 billion,$101.5 billion,$2.8 billion,$2.3 billion,$1.8 billion,Retail
+Unilever,United Kingdom,1929,$60.2 billion,$61.9 billion,$63.6 billion,$7.1 billion,$7.9 billion,$8.7 billion,Consumer goods
+Vodafone,United Kingdom,1991,$47.9 billion,$49.1 billion,$50.3 billion,$2.2 billion,$2.3 billion,$2.4 billion,Telecommunications
+GlaxoSmithKline,United Kingdom,2000,$40.2 billion,$41.3 billion,$42.4 billion,$7.8 billion,$8.8 billion,$9.8 billion,Pharmaceuticals
+AstraZeneca,United Kingdom,1999,$23.1 billion,$23.8 billion,$24.5 billion,$4.9 billion,$5.9 billion,$6.9 billion,Pharmaceuticals
+British American Tobacco,United Kingdom,1902,$27.3 billion,$27.9 billion,$28.5 billion,$7.4 billion,$8.4 billion,$9.4 billion,Tobacco
+BT Group,United Kingdom,1984,$23.4 billion,$23.8 billion,$24.2 billion,$2.4 billion,$2.8 billion,$3.2 billion,Telecommunications
+Rolls-Royce,United Kingdom,1906,$20.9 billion,$21.2 billion,$21.5 billion,$1.3 billion,$1.6 billion,$1.9 billion,Aerospace and defense
+British Airways,United Kingdom,1974,$16.9 billion,$17.1 billion,$17.3 billion,$2.2 billion,$2.5 billion,$2.8 billion,Airlines
+Lloyds Bank,United Kingdom,1765,$27.4 billion,$28.0 billion,$28.6 billion,$3.7 billion,$4.7 billion,$5.7 billion,Banking
+Anglo American,United Kingdom,1917,$22.8 billion,$23.4 billion,$24.0 billion,$3.3 billion,$4.3 billion,$5.3 billion,Mining
+Standard Chartered,United Kingdom,1969,$17.7 billion,$18.1 billion,$18.5 billion,$1.9 billion,$2.9 billion,$3.9 billion,Banking
+GSK Consumer Healthcare,United Kingdom,2000,$10.3 billion,$10.6 billion,$10.9 billion,$2.0 billion,$2.3 billion,$2.6 billion,Consumer healthcare
+Royal Bank of Scotland,United Kingdom,1727,$33.4 billion,$34.0 billion,$34.6 billion,$2.9 billion,$3.9 billion,$4.9 billion,Banking
+Aviva,United Kingdom,1696,$37.4 billion,$38.2 billion,$39.0 billion,$4.4 billion,$5.4 billion,$6.4 billion,Insurance
+Diageo,United Kingdom,1997,$15.8 billion,$16.2 billion,$16.6 billion,$3.6 billion,$4.6 billion,$5.6 billion,Beverages
+Legal & General,United Kingdom,1836,$17.8 billion,$18.2 billion,$18.6 billion,$2.8 billion,$3.8 billion,$4.8 billion,Insurance
+National Grid,United Kingdom,1990,$35.1 billion,$35.7 billion,$36.3 billion,$4.4 billion,$5.4 billion,$6.4 billion,Energy
+Prudential,United Kingdom,1848,$59.9 billion,$61.6 billion,$63.3 billion,$8.9 billion,$9.9 billion,$10.9 billion,Insurance
+Tesco Bank,United Kingdom,1997,$2.4 billion,$2.5 billion,$2.6 billion,$0.3 billion,$0.4 billion,$0.5 billion,Banking
+Standard Life,United Kingdom,1825,$34.9 billion,$35.5 billion,$36.1 billion,$5.9 billion,$6.9 billion,$7.9 billion,Insurance
+Avon Products,United Kingdom,1886,$5.7 billion,$5.8 billion,$5.9 billion,$0.6 billion,$0.7 billion,$0.8 billion,Beauty
+BHP,Australia,1885,$44.4 billion,$44.8 billion,$45.2 billion,$9.4 billion,$8.4 billion,$7.4 billion,Mining
+Commonwealth Bank of Australia,Australia,1911,$38.7 billion,$39.3 billion,$39.9 billion,$9.9 billion,$8.9 billion,$7.9 billion,Banking
+National Australia Bank,Australia,1982,$27.7 billion,$28.3 billion,$28.9 billion,$6.7 billion,$5.7 billion,$4.7 billion,Banking
+ANZ,Australia,1951,$27.6 billion,$28.2 billion,$28.8 billion,$6.6 billion,$5.6 billion,$4.6 billion,Banking
+Westpac,Australia,1817,$29.4 billion,$30.0 billion,$30.6 billion,$7.4 billion,$6.4 billion,$5.4 billion,Banking
+Rio Tinto,Australia,1873,$35.5 billion,$36.1 billion,$36.7 billion,$10.5 billion,$9.5 billion,$8.5 billion,Mining
+Telstra,Australia,1975,$28.9 billion,$29.5 billion,$30.1 billion,$6.9 billion,$5.9 billion,$4.9 billion,Telecommunications
+Qantas,Australia,1920,$15.7 billion,$15.9 billion,$16.1 billion,$0.9 billion,$1.9 billion,$2.9 billion,Airlines
+Woodside Petroleum,Australia,1954,$10.4 billion,$10.6 billion,$10.8 billion,$1.4 billion,$2.4 billion,$3.4 billion,Oil and gas
+Wesfarmers,Australia,1914,$62.7 billion,$63.3 billion,$63.9 billion,$3.7 billion,$4.7 billion,$5.7 billion,Diversified
+Woolworths,Australia,1924,$62.4 billion,$63.0 billion,$63.6 billion,$2.4 billion,$3.4 billion,$4.4 billion,Retail
+Boral,Australia,1946,$5.5 billion,$5.6 billion,$5.7 billion,$0.5 billion,$1.5 billion,$2.5 billion,Construction materials
+AMP,Australia,1849,$16.3 billion,$16.5 billion,$16.7 billion,$1.3 billion,$2.3 billion,$3.3 billion,Financial services
+Wesfert,Australia,1999,$12.9 billion,$13.1 billion,$13.3 billion,$1.9 billion,$2.9 billion,$3.9 billion,Agriculture
+IAG,Australia,1920,$20.3 billion,$20.5 billion,$20.7 billion,$1.3 billion,$2.3 billion,$3.3 billion,Insurance
+OTP Bank,Hungary,1949,$10.3 billion,$10.5 billion,$10.7 billion,$1.3 billion,$2.3 billion,$3.3 billion,Banking
+Magyar Telekom,Hungary,1991,$2.5 billion,$2.6 billion,$2.7 billion,$0.5 billion,$1.5 billion,$2.5 billion,Telecommunications
+Mol Group,Hungary,1991,$23.9 billion,$24.5 billion,$25.1 billion,$2.9 billion,$3.9 billion,$4.9 billion,Oil and gas
+Erste Bank,Hungary,1819,$7.9 billion,$8.1 billion,$8.3 billion,$1.0 billion,$2.0 billion,$3.0 billion,Banking
+Magyar Posta,Hungary,1867,$1.1 billion,$1.2 billion,$1.3 billion,$0.1 billion,$0.2 billion,$0.3 billion,Postal service
+Lietuvos Energija,Lithuania,1991,$1.3 billion,$1.4 billion,$1.5 billion,$130 million,$140 million,$150 million,Energy
+Danske Bank,Finland,1992,$2.1 billion,$2.2 billion,$2.3 billion,$210 million,$220 million,$230 million,Banking
+Ericsson,Sweden,1876,$23.1 billion,$23.5 billion,$23.9 billion,$2.1 billion,$3.1 billion,$4.1 billion,Telecommunications
+H&M,Sweden,1947,$23.8 billion,$24.2 billion,$24.6 billion,$2.8 billion,$3.8 billion,$4.8 billion,Retail
+Volvo,Sweden,1927,$41.3 billion,$41.9 billion,$42.5 billion,$4.3 billion,$5.3 billion,$6.3 billion,Automobiles
+IKEA,Sweden,1943,$47.9 billion,$48.7 billion,$49.5 billion,$4.9 billion,$5.9 billion,$6.9 billion,Furniture
+Nordea Bank,Sweden,1997,$10.8 billion,$11.0 billion,$11.2 billion,$1.1 billion,$2.1 billion,$3.1 billion,Banking
+Telia Eesti,Estonia,1991,$313 million,$318 million,$323 million,$31 million,$32 million,$33 million,Telecommunications
+Swedbank,Estonia,1992,$1.1 billion,$1.2 billion,$1.3 billion,$110 million,$120 million,$130 million,Banking
+SEB Bank,Estonia,1992,$580 million,$590 million,$600 million,$58 million,$59 million,$60 million,Banking
+Danske Bank,Estonia,1992,$510 million,$520 million,$530 million,$51 million,$52 million,$53 million,Banking
+Eesti Energia,Estonia,1939,$1.1 billion,$1.2 billion,$1.3 billion,$110 million,$120 million,$130 million,Energy
+Banco Santander,Spain,1857,$31.9 billion,$32.5 billion,$33.1 billion,$3.9 billion,$4.9 billion,$5.9 billion,Banking
+Telef√≥nica,Spain,1924,$58.9 billion,$59.5 billion,$60.1 billion,$5.9 billion,$6.9 billion,$7.9 billion,Telecommunications
+Repsol,Spain,1986,$24.6 billion,$25.2 billion,$25.8 billion,$2.6 billion,$3.6 billion,$4.6 billion,Oil and gas
+Mapfre,Spain,1933,$29.1 billion,$29.7 billion,$30.3 billion,$2.9 billion,$3.9 billion,$4.9 billion,Insurance
+Iberdrola,Spain,1869,$35.3 billion,$35.9 billion,$36.5 billion,$3.5 billion,$4.5 billion,$5.5 billion,Energy
+Ferrovial,Spain,1952,$12.5 billion,$12.7 billion,$12.9 billion,$1.5 billion,$2.5 billion,$3.5 billion,Construction and services
+Banco Sabadell,Spain,1881,$4.4 billion,$4.5 billion,$4.6 billion,$0.4 billion,$1.4 billion,$2.4 billion,Banking
+ACS,Spain,1997,$56.2 billion,$56.8 billion,$57.4 billion,$5.6 billion,$6.6 billion,$7.6 billion,Construction and services
+FerroAtl√°ntica,Spain,1936,$2.0 billion,$2.1 billion,$2.2 billion,$0.2 billion,$0.3 billion,$0.4 billion,Industrial minerals
+Banco Popular,Spain,1926,$2.8 billion,$2.9 billion,$3.0 billion,$0.3 billion,$0.4 billion,$0.5 billion,Banking
+Banco de Valencia,Spain,1419,$3.3 billion,$3.4 billion,$3.5 billion,$0.3 billion,$0.4 billion,$0.5 billion,Banking
+Banco Bilbao Vizcaya Argentaria (BBVA),Spain,1857,$26.8 billion,$27.4 billion,$28.0 billion,$2.7 billion,$3.7 billion,$4.7 billion,Banking
+Petrobras,Brazil,1953,$98.4 billion,$99.6 billion,$100.8 billion,$9.8 billion,$10.9 billion,$12.0 billion,Oil and gas
+Banco do Brasil,Brazil,1808,$62.5 billion,$63.5 billion,$64.5 billion,$6.3 billion,$7.3 billion,$8.3 billion,Banking
+Vale,Brazil,1942,$31.9 billion,$32.5 billion,$33.1 billion,$3.2 billion,$4.2 billion,$5.2 billion,Mining
+Ita√∫ Unibanco,Brazil,1908,$30.9 billion,$31.5 billion,$32.1 billion,$3.1 billion,$4.1 billion,$5.1 billion,Banking
+Banco Bradesco,Brazil,1943,$24.5 billion,$25.1 billion,$25.7 billion,$2.5 billion,$3.5 billion,$4.5 billion,Banking
+Samsung,Korea,1938,$224.7 billion,$260.9 billion,$265.6 billion,$22.7 billion,$25.2 billion,$27.7 billion,Technology
+Hyundai,Korea,1947,$105.4 billion,$111.8 billion,$112.3 billion,$5.2 billion,$4.6 billion,$4.4 billion,Automotive
+LG,Korea,1958,$54.4 billion,$54.7 billion,$54.2 billion,$2.5 billion,$2.1 billion,$1.8 billion,Technology
+Kia,Korea,1944,$49.2 billion,$52.5 billion,$54.3 billion,$3.5 billion,$3.8 billion,$4.1 billion,Automotive
+SK Group,Korea,1953,$87.6 billion,$90.8 billion,$95.4 billion,$9.8 billion,$9.3 billion,$9.2 billion,Conglomerate
+Posco,Korea,1968,$22.3 billion,$23.3 billion,$22.9 billion,$2.2 billion,$2.3 billion,$1.9 billion,Steel
+Hyundai Heavy Industries,Korea,1972,$34.9 billion,$35.2 billion,$34.8 billion,$2.5 billion,$2.6 billion,$2.5 billion,Shipbuilding
+Lotte Group,Korea,1948,$87.4 billion,$88.4 billion,$86.5 billion,$2.9 billion,$3.0 billion,$2.7 billion,Conglomerate
+CJ Group,Korea,1953,$38.2 billion,$39.6 billion,$40.3 billion,$1.3 billion,$1.5 billion,$1.6 billion,Conglomerate
+Hanwha Group,Korea,1952,$26.6 billion,$27.1 billion,$26.9 billion,$1.2 billion,$1.2 billion,$1.1 billion,Conglomerate
+MTN Group,South Africa,1994,$11.6 billion,$11.9 billion,$11.8 billion,$1.5 billion,$1.6 billion,$1.5 billion,Telecommunications
+Naspers,South Africa,1915,$11.4 billion,$12.5 billion,$12.6 billion,$3.5 billion,$3.8 billion,$3.9 billion,"Media, Internet, and Technology"
+FirstRand,South Africa,1998,$8.1 billion,$8.6 billion,$8.8 billion,$1.7 billion,$1.8 billion,$1.9 billion,Financial Services
+Standard Bank Group,South Africa,1962,$7.7 billion,$8.3 billion,$8.4 billion,$1.6 billion,$1.7 billion,$1.8 billion,Financial Services
+Sasol,South Africa,1950,$11.1 billion,$11.4 billion,$11.3 billion,$1.5 billion,$1.6 billion,$1.5 billion,Energy
+Dangote Group,Nigeria,1977,$30.8 billion,$31.2 billion,$30.8 billion,$3.0 billion,$3.1 billion,$3.0 billion,Conglomerate
+MTN Group,Nigeria,1994,$3.3 billion,$3.5 billion,$3.6 billion,$0.5 billion,$0.6 billion,$0.7 billion,Telecommunications
+Cemex,Mexico,1906,$14.6 billion,$14.8 billion,$14.5 billion,$1.1 billion,$1.2 billion,$1.1 billion,Construction Materials
+Am√©rica M√≥vil,Mexico,2000,$53.1 billion,$54.5 billion,$53.3 billion,$5.3 billion,$5.5 billion,$5.3 billion,Telecommunications
+Femsa,Mexico,1890,$15.7 billion,$16.2 billion,$15.9 billion,$1.3 billion,$1.4 billion,$1.3 billion,Beverage
+Grupo Bimbo,Mexico,1945,$13.4 billion,$13.8 billion,$13.6 billion,$0.9 billion,$1.0 billion,$1.0 billion,Bakery
+Petr√≥leos de M√©xico,Mexico,1938,$102.5 billion,$105.7 billion,$99.7 billion,$3.3 billion,$3.5 billion,$2.9 billion,Energy
+Rimi Baltic,Latvia,1991,$3.5 billion,$3.6 billion,$3.5 billion,$0.4 billion,$0.4 billion,$0.4 billion,Retail
+Latvijas GƒÅze,Latvia,1991,$1.6 billion,$1.7 billion,$1.6 billion,$0.2 billion,$0.2 billion,$0.2 billion,Energy
+Dienas Bizness,Latvia,1992,$0.3 billion,$0.3 billion,$0.3 billion,$0.08 billion,$0.078 billion,$0.076 billion,Media
+CME,Czech Republic,1991,$1.3 billion,$1.4 billion,$1.3 billion,$0.2 billion,$0.2 billion,$0.2 billion,Media
+Skoda,Czech Republic,1895,$10.7 billion,$11.1 billion,$10.9 billion,$0.9 billion,$1.0 billion,$0.9 billion,Automotive
+Cencosud,Chile,1957,$14.9 billion,$15.4 billion,$15.2 billion,$1.4 billion,$1.5 billion,$1.5 billion,Retail
+CEZ Group,Czech Republic,1992,$11.5 billion,$11.8 billion,$11.7 billion,$1.3 billion,$1.4 billion,$1.4 billion,Energy
+LAN Airlines,Chile,1929,$3.7 billion,$3.8 billion,$3.7 billion,$0.4 billion,$0.4 billion,$0.4 billion,Air Transportation
+Fonterra,New Zealand,2001,$19.2 billion,$19.4 billion,$19.2 billion,$1.1 billion,$1.2 billion,$1.2 billion,Dairy
+Air New Zealand,New Zealand,1940,$4.4 billion,$4.6 billion,$4.5 billion,$0.2 billion,$0.3 billion,$0.3 billion,Air Transportation
+TelstraClear,New Zealand,1990,$1.1 billion,$1.1 billion,$1.1 billion,$0.1 billion,$0.1 billion,$0.1 billion,Telecommunications
+Vector,New Zealand,1995,$2.2 billion,$2.3 billion,$2.3 billion,$0.2 billion,$0.2 billion,$0.2 billion,Energy
+Carrefour,France,1959,$104.8 billion,$106.4 billion,$105.8 billion,$2.2 billion,$2.4 billion,$2.4 billion,Retail
+Danone,France,1899,$27.4 billion,$27.8 billion,$27.7 billion,$2.4 billion,$2.4 billion,$2.4 billion,Food and Beverages
+Pernod Ricard,France,1975,$9.6 billion,$9.9 billion,$9.9 billion,$1.3 billion,$1.4 billion,$1.4 billion,Alcoholic Beverages
+Statoil,Norway,1972,$30.4 billion,$34.7 billion,$32.4 billion,$5.5 billion,$9.2 billion,$5.6 billion,Oil and Gas
+Telenor,Norway,1855,$11.7 billion,$11.6 billion,$11.2 billion,$2.9 billion,$3.3 billion,$2.6 billion,Telecommunications
+DNV GL,Norway,1864,$2.4 billion,$2.6 billion,$2.7 billion,$390 million,$450 million,$460 million,Consulting and Certification
+Kongsberg,Norway,1814,$2.3 billion,$2.5 billion,$2.5 billion,$205 million,$230 million,$240 million,Defense and Aerospace
+Yara,Norway,1905,$11.5 billion,$11.9 billion,$10.6 billion,$1.4 billion,$1.7 billion,$1.2 billion,Fertilizers and Industrial Chemicals
+Elisa,Finland,1882,$2.46 billion,$2.54 billion,$2.55 billion,$344 million,$356 million,$365 million,Telecommunications
+Nokia,Finland,1865,$23.27 billion,$23.22 billion,$22.45 billion,$2.91 billion,$2.73 billion,$1.79 billion,Telecommunications
+Fortum,Finland,1998,$9.93 billion,$10.44 billion,$10.74 billion,$1.42 billion,$1.58 billion,$1.35 billion,Energy
+Stora Enso,Finland,1998,$10.38 billion,$10.75 billion,$10.54 billion,$1.26 billion,$1.33 billion,$1.07 billion,"Paper, Packaging"
+Reykjavik Energy,Iceland,1913,$957 million,$977 million,$1.02 billion,$73 million,$72 million,$89 million,Energy
+Bombardier Inc.,Canada,1942,$15.91 billion,$16.42 billion,$16.03 billion,$-1.58 billion,$-1.39 billion,$-1.56 billion,Transportation
+LinkedIn,United States,2002,$2.26 billion,$2.51 billion,$2.61 billion,$1.11 billion,$1.23 billion,$1.27 billion,Social Networking
+GameStop,United States,1994,$9.56 billion,$9.32 billion,$6.47 billion,$665 million,$665 million,$417 million,Retail
+PandaDoc,Belarus,2013,$29 million,$33 million,$40 million,$-9 million,$-7 million,$-6 million,Software
+Wargaming,Belarus,1998,$1.39 billion,$1.50 billion,$1.54 billion,$406 million,$442 million,$451 million,Video Games
+EPAM Systems,Belarus,1993,$2.47 billion,$2.74 billion,$2.92 billion,$296 million,$323 million,$341 million,IT Services
+Starbucks,United States,1971,$24.72 billion,$26.50 billion,$26.47 billion,$3.24 billion,$3.24 billion,$3.24 billion,Coffee
+J.M. Smucker Company,United States,1897,$7.46 billion,$7.51 billion,$7.30 billion,$664 million,$672 million,$634 million,"Coffee, Food and Beverage"
+Dunkin' Brands Group,Inc.,United States,1950,$9.20 billion,$9.40 billion,$9.40 billion,$393 million,$413 million,$413 million
+Peet's Coffee,United States,1966,$528 million,$560 million,$580 million,$45 million,$48 million,$50 million,Coffee
+Keurig Dr Pepper,United States,1981,$11.59 billion,$11.70 billion,$11.70 billion,$1.24 billion,$1.27 billion,$1.27 billion,Coffee
+Costa Coffee,United Kingdom,1971,$2.01 billion,$2.14 billion,$2.15 billion,$121 million,$133 million,$134 million,Coffee
+Tim Horton's,Canada,1964,$4.08 billion,$4.15 billion,$4.15 billion,$823 million,$835 million,$835 million,"Coffee, Fast Food"
+Caribou Coffee,United States,1992,$293 million,$300 million,$300 million,$24 million,$25 million,$25 million,Coffee
+The Kraft Heinz Company,United States,2015,$26.27 billion,$25.54 billion,$24.52 billion,$1.77 billion,$1.60 billion,$1.40 billion,Food and Beverage
+Louis Vuitton,France,1854,$16.24 billion,$16.91 billion,$16.91 billion,$3.53 billion,$3.68 billion,$3.68 billion,"Fashion, Luxury Goods"
+Gucci,Italy,1921,$15.08 billion,$15.08 billion,$15.08 billion,$2.81 billion,$2.81 billion,$2.81 billion,"Fashion, Luxury Goods"
+Prada,Italy,1913,$4.24 billion,$4.24 billion,$4.24 billion,$654 million,$654 million,$654 million,"Fashion, Luxury Goods"
+Ralph Lauren,United States,1967,$7.44 billion,$7.44 billion,$7.44 billion,$850 million,$850 million,$850 million,Fashion
+Tommy Hilfiger,United States,1985,$7.19 billion,$7.19 billion,$7.19 billion,$1.03 billion,$1.03 billion,$1.03 billion,Fashion
+Calvin Klein,United States,1968,$9.61 billion,$9.61 billion,$9.61 billion,$1.38 billion,$1.38 billion,$1.38 billion,Fashion
+Chanel,France,1909,$9.62 billion,$9.62 billion,$9.62 billion,$1.77 billion,$1.77 billion,$1.77 billion,"Fashion, Luxury Goods"
+Giorgio Armani,Italy,1975,$2.34 billion,$2.34 billion,$2.34 billion,$362 million,$362 million,$362 million,"Fashion, Luxury Goods"
+Christian Dior,France,1946,$12.11 billion,$12.11 billion,$12.11 billion,$2.04 billion,$2.04 billion,$2.04 billion,"Fashion, Luxury Goods"
+Versace,Italy,1978,$1.19 billion,$1.19 billion,$1.19 billion,$207 million,$207 million,$207 million,"Fashion, Luxury Goods"
+Hill's Pet Nutrition,United States,1939,$2.44 billion,$2.48 billion,$2.48 billion,$333 million,$336 million,$336 million,Pet
+Purina,United States,1894,$14.78 billion,$14.78 billion,$14.78 billion,$2.34 billion,$2.34 billion,$2.34 billion,Pet
+Royal Canin,France,1968,$2.67 billion,$2.67 billion,$2.67 billion,$405 million,$405 million,$405 million,Pet
+Blue Buffalo,United States,2002,$1.02 billion,$1.02 billion,$1.02 billion,$150 million,$150 million,$150 million,Pet
+Shiseido,Japan,1872,$7.36 billion,$7.36 billion,$7.36 billion,$531 million,$531 million,$531 million,Beauty
+Kao Corporation,Japan,1887,$13.39 billion,$13.39 billion,$13.39 billion,$1.40 billion,$1.40 billion,$1.40 billion,"Beauty, Consumer Goods"
+Singapore Telecommunications Limited (SingTel),Singapore,1879,$17.70 billion,$17.70 billion,$17.70 billion,$3.81 billion,$3.81 billion,$3.81 billion,Telecommunications
+DBS Bank,Singapore,1968,$13.60 billion,$13.60 billion,$13.60 billion,$3.96 billion,$3.96 billion,$3.96 billion,Banking
+United Overseas Bank (UOB),Singapore,1935,$11.10 billion,$11.10 billion,$11.10 billion,$3.34 billion,$3.34 billion,$3.34 billion,Banking
+CapitaLand,Singapore,2000,$9.40 billion,$9.40 billion,$9.40 billion,$1.77 billion,$1.77 billion,$1.77 billion,Real Estate
+Singapore Airlines,Singapore,1972,$17.20 billion,$17.20 billion,$17.20 billion,$1.40 billion,$1.40 billion,$1.40 billion,Airlines
+Keppel Corporation,Singapore,1968,$7.50 billion,$7.50 billion,$7.50 billion,$596 million,$596 million,$596 million,"Engineering, Offshore and Marine"
+SembCorp Industries,Singapore,1968,$9.80 billion,$9.80 billion,$9.80 billion,$1.13 billion,$1.13 billion,$1.13 billion,"Engineering, Offshore and Marine"
+Singapore Press Holdings,Singapore,1845,$1.50 billion,$1.50 billion,$1.50 billion,$280 million,$280 million,$280 million,Media
